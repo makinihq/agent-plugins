@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "makini",
+  "description": "Makini plugins: connect the agent to a company's business systems through the Makini MCP server.",
+  "owner": {
+    "name": "Makini",
+    "url": "https://makini.io"
+  },
+  "plugins": [
+    {
+      "name": "makini-netsuite",
+      "description": "Read and change NetSuite purchase orders, receipts, vendor bills, items and inventory through Makini.",
+      "source": "./plugins/makini-netsuite",
+      "category": "productivity"
+    },
+    {
+      "name": "makini-fishbowl-advanced",
+      "description": "Read and change Fishbowl Advanced purchase, sales, manufacture and transfer orders, parts and inventory through Makini.",
+      "source": "./plugins/makini-fishbowl-advanced",
+      "category": "productivity"
+    }
+  ]
+}

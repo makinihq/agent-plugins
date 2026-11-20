@@ -1,0 +1,22 @@
+{
+  "name": "makini-netsuite",
+  "displayName": "NetSuite (via Makini)",
+  "version": "0.1.0",
+  "description": "Read and change NetSuite purchase orders, item receipts, vendor bills, items and inventory through the Makini MCP server.",
+  "author": {
+    "name": "Makini",
+    "url": "https://makini.io"
+  },
+  "homepage": "https://makini.io",
+  "repository": "https://github.com/makinihq/agent-plugins",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://www.makini.io/legal#end-user",
+  "keywords": [
+    "makini",
+    "netsuite",
+    "mcp",
+    "erp",
+    "inventory",
+    "purchasing"
+  ]
+}

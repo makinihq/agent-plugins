@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "makini": {
+      "type": "http",
+      "url": "https://mcp.makini.io"
+    }
+  }
+}

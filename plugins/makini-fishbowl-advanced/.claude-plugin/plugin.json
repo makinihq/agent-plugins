@@ -1,0 +1,22 @@
+{
+  "name": "makini-fishbowl-advanced",
+  "displayName": "Fishbowl Advanced (via Makini)",
+  "version": "0.1.0",
+  "description": "Read and change Fishbowl Advanced purchase, sales, manufacture and transfer orders, parts, inventory and shipments through the Makini MCP server.",
+  "author": {
+    "name": "Makini",
+    "url": "https://makini.io"
+  },
+  "homepage": "https://makini.io",
+  "repository": "https://github.com/makinihq/agent-plugins",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://www.makini.io/legal#end-user",
+  "keywords": [
+    "makini",
+    "fishbowl-advanced",
+    "mcp",
+    "erp",
+    "inventory",
+    "purchasing"
+  ]
+}
