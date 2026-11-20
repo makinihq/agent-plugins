@@ -1,6 +1,6 @@
 {
   "name": "makini-fishbowl-advanced",
-  "displayName": "Makini for Fishbowl Advanced",
+  "displayName": "Fishbowl Advanced (via Makini)",
   "version": "0.1.0",
   "description": "Read and change Fishbowl Advanced purchase, sales, manufacture and transfer orders, parts, inventory and shipments through the Makini MCP server.",
   "author": {

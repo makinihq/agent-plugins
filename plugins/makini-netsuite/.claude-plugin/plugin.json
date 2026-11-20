@@ -1,6 +1,6 @@
 {
   "name": "makini-netsuite",
-  "displayName": "Makini for NetSuite",
+  "displayName": "NetSuite (via Makini)",
   "version": "0.1.0",
   "description": "Read and change NetSuite purchase orders, item receipts, vendor bills, items and inventory through the Makini MCP server.",
   "author": {
